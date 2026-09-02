@@ -1,0 +1,5 @@
+publish.sh
+daily_update.sh
+.deploy_key
+.deploy_key.pub
+logs/
